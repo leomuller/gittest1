@@ -2,3 +2,24 @@ this is my project file
 
 What shall we do?
 
+we shall add things to git hub
+
+
+
+General instructions working with git:
+
+
+Structure:
+A. You working directory (local folder)
+B. Staging area (which files are connected to GIT)
+C. Local GIT repo (DB of all files)
+
+
+1. To create first time local GIT repo, (.git folder) run "git init"
+2. To add to staging area "git add filename.cs" to do all files in current folder use "git add ."
+3. To see pending files (changed but not committed yet), run "git status".
+4. to save to local GIT Repo run "git commit -m "add git commands""
+
+
+
+
