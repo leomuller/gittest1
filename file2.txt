@@ -2,9 +2,20 @@ list of ideas:
 
 
 
-1
-2
-2
-3
-4
-4
+- make drum app
+- synthesizer app?
+- jquery / bootstarp lib site (own cdn)
+https://developers.google.com/speed/libraries#jquery
+- recipe book
+- preloader: load 5 + add more dynamically after.
+- wheel of fortune
+- mine sweeper
+- games with limit plays, e.g. 5 stars per day. Filling up every 4 hours.
+- site for selling service for upgrade legacy website: discovery 500 shekel. plan, etc. 
+
+
+Learning:
+- certificate scrum master - aanvoerder van het bouteam
+- product owner
+- ict architect
+- pmo programma secretaris
