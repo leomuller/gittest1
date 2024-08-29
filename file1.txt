@@ -13,13 +13,18 @@ Structure:
 A. You working directory (local folder)
 B. Staging area (which files are connected to GIT)
 C. Local GIT repo (DB of all files)
+D. Remote GIT repo (GitHub, same as local, but remote)
+
 
 
 1. To create first time local GIT repo, (.git folder) run "git init"
-2. To add to staging area "git add filename.cs" to do all files in current folder use "git add ."
+2. To add to staging area "git add filename.cs" 
+    2.1 to do all files in current folder and inside use "git add ."
 3. To see pending files (changed but not committed yet), run "git status".
 4. to save to local GIT Repo run "git commit -m "add git commands""
-
-
+5. To check differences: "git diff file.txt"
+6. to roll back to last commited version: "git checkout file.txt"
+7. to connect to remote GIT from local GIT: "git remote add origin https://githuburl/file.git" 
+    7.1 to push from local to remote git: push -u origin main
 
 
